@@ -1,14 +1,10 @@
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
 <p align="center">                                                  𝐊𝐈𝐁𝐎𝐑𝐄-𝐂𝐌𝐃 
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g">
+  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
     <img alt=Support height="390" src="https://files.catbox.moe/t9jjm9.jpg"> 
     </p>
  
@@ -16,7 +12,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Code&pause=1000&random=false&width=435&lines=THIS+IS+KIBORE CMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+KIBORE CMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
 
 
 
@@ -60,13 +56,13 @@
 For any issues or to stay updated, use the options below:  
 
 ✅ Contact Me on WhatsApp  
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/NY5RNQQH2DYTN1)  
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255613300056)  
 
 <br>
 
 ✅ Follow My WhatsApp Channel 
 
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g)  
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31)  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
