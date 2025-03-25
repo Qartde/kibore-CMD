@@ -9,14 +9,14 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g">
-    <img alt=Support height="390" src="https://files.catbox.moe/1gdmdb.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/t9jjm9.jpg"> 
     </p>
  
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+KIBORE CMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Code&pause=1000&random=false&width=435&lines=THIS+IS+KIBORE CMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
 
 
 
