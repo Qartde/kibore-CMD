@@ -19,14 +19,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### SETUP 
+#### SETUP Fork 👇
 
 
 <a href='https://github.com/Qartde/kibore-CMD/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=grey'/></a>
 
 
  
-
+###PAIR CODE
 
 <a href='https://rahmani-md-7xqe.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=pink'/></a>
  
