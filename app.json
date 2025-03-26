@@ -77,7 +77,7 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"RAHMANI-MD",
+    "value":"KIBORE-CMD",
     "required":false
 
     },
@@ -124,7 +124,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255693629079"
+    "value": "255613300056"
   },
     "WARN_COUNT":
   {
