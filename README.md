@@ -66,3 +66,12 @@ For any issues or to stay updated, use the options below:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+
+
+
+𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 𝙵𝙾𝚁 𝙲𝙷𝙾𝙾𝚂𝙸𝙽𝙶 𝐊𝐈𝐁𝐎𝐑𝐄 𝐂𝐌𝐃 𝐁𝐎𝐓
+
+
+
+       💛 𝐀𝐋𝐋𝐀𝐇 𝐀𝐊𝐁𝐀𝐑 💚
