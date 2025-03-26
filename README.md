@@ -22,7 +22,7 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/Qartde/kibore-CMD/fork)
+<a href='https://github.com/Qartde/kibore-CMD/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=grey'/></a>
 
 
  
