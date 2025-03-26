@@ -74,4 +74,4 @@ For any issues or to stay updated, use the options below:
 
 
 
-       💛 𝐀𝐋𝐋𝐀𝐇 𝐀𝐊𝐁𝐀𝐑 💚
+       💛 𝐀𝐋𝐋𝐀𝐇𝐔 𝐀𝐊𝐁𝐀𝐑 💚
